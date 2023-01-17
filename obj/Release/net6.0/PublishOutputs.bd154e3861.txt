@@ -1,0 +1,11 @@
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\GarciaEAllForOne.exe
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\appsettings.Development.json
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\appsettings.json
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\GarciaEAllForOne.dll
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\GarciaEAllForOne.deps.json
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\GarciaEAllForOne.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\GarciaEAllForOne.pdb
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\Microsoft.OpenApi.dll
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\extur\Documents\leveOne\weekTwo\Garciaeallforone\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

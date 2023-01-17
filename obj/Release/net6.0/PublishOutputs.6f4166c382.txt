@@ -1,0 +1,11 @@
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\GarciaEAllForOne.exe
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\appsettings.Development.json
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\appsettings.json
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\GarciaEAllForOne.dll
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\GarciaEAllForOne.deps.json
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\GarciaEAllForOne.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\GarciaEAllForOne.pdb
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\Microsoft.OpenApi.dll
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\extur\Documents\leveOne\weekTwo\GarciaEMiniCh#1challengeEndpoints\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
